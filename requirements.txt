@@ -1,0 +1,19 @@
+requests>=2.31.0
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+pandas>=2.2.0
+tqdm>=4.66.0
+
+# PostgreSQL + pgvector
+psycopg2-binary>=2.9.9
+pgvector>=0.2.5
+
+# Milvus
+pymilvus>=2.4.0
+
+# Weaviate
+weaviate-client>=4.6.0
+
+# Analysis / plotting
+matplotlib>=3.8.0
+scikit-learn>=1.4.0
