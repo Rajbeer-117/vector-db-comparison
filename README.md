@@ -1,5 +1,8 @@
 # Comparative Analysis of Vector Database Systems for Hybrid Cybersecurity Threat Intelligence Retrieval
+
 ##Results: **https://rajbeer-117.github.io/report-site/**
+
+
 Implementation companion to the project proposal. Benchmarks **PostgreSQL
 (pgvector)**, **Milvus**, and **Weaviate** on hybrid queries (structured
 metadata filters + semantic vector similarity) over CVE/NVD vulnerability
